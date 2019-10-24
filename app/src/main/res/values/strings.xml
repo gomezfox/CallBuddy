@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CallBuddy</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="due_notify">Last called 6 weeks ago</string>
+    <string name="upcoming_notify">Last called 3 weeks ago</string>
+    <string name="recent_notify">Last called 5 days ago</string>
+
+
+
+
+</resources>
